@@ -1,3 +1,4 @@
-Hello, my name is "Allen Chiang" and I am working on hw1
 
-"Hello, our names are "Myo Aung" and "Allen Chiang" and we are working on hw3 together.
+
+"Hello, our names are "Myo Aung" and "Allen Chiang" and we are working on hw3 together, 
+we started working together on (09/19/2022)
